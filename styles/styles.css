@@ -21,6 +21,11 @@ main img {
     box-shadow: 0 0 30px gray;
 }
 
+main {
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
 p {
     padding: 0;
 }
